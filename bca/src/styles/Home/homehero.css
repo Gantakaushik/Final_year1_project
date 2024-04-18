@@ -1,12 +1,9 @@
 @import url(./App.css);
+
 .home-hero {
   padding: 6.5rem 0;
   position: relative;
-  /* background: linear-gradient(to top right, #4BB3FF, #4CFCFF, #00E395); */
-  /* background-image: linear-gradient(135deg, #fdfcfb 0%, #e2d1c3 100%); */
-  /* background-image: linear-gradient(to top, #feada6 0%, #f5efef 100%); */
-  /* background-image: linear-gradient(-20deg, #ddd6f3 0%, #faaca8 100%, #faaca8 100%); */
-  background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
+  background: linear-gradient(to top right, #4BB3FF, #4CFCFF, #00E395);
   height: 627px;
 }
 

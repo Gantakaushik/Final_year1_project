@@ -168,14 +168,14 @@ const Footer = () => {
                 rel="noreferrer"
               >
                 <IoMailOutline />
-                sales@Merxpress.com
+                sales@HireXzo.com
               </a>
               <a
                 href="tel:6302097651"
                 className="mail"
               >
                 <MdLocalPhone />
-                +91-6302097653 <span> (Mon to Fri, 9 AM to 6 PM)</span>
+                +91-6302097651 <span> (Mon to Fri, 9 AM to 6 PM)</span>
               </a>
             </div>
             <div className="footer-social-links dash">
@@ -290,7 +290,7 @@ const Footer = () => {
               
             {/* <p className="dash best-viewed"></p> */}
             <p className="copyright">
-              Copyright © 2023 Merxpress Group  Ltd - All rights reserved.
+              Copyright © 2023 HireXzo Solutions Ltd - All rights reserved.
             </p>
           </div>
           <div className="footer-top-right">
@@ -463,7 +463,7 @@ const Footer = () => {
                 </div>
                 <a href="https://unstop.com/unstop-rewards-program">
                   Unstop Rewards Program
-                </a> 
+                </a>
                 <a href="https://unstop.com/unstoppitchsharktank">
                   Unstop on Shark Tank
                 </a>
@@ -487,7 +487,7 @@ const Footer = () => {
     
         </div>
         <div className="company-name">
-          <h1>Merxpress</h1>
+          <h1>HireXzo</h1>
         </div>
         {/* <div className="footer-bottom container">
           <div className="footer-bottom-left">

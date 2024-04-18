@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect } from "react";
 import { AiOutlineSearch } from "react-icons/ai";
 import { Link, NavLink } from "react-router-dom";
-import logo from "../assets/merxpress.png";
+import logo from "../assets/HireXzo_Solutions_LLP_No_BG.png";
 // import Signup from "../pages/signup/Signup";
 import { Outlet } from "react-router-dom";
 // import HoverCard from "./HoverCard";
@@ -100,7 +100,7 @@ const Navbar = ({ openHover }) => {
       <nav>
         <div className={`navbar container ${isNavOpen ? "open" : ""}`}>
           <div className="nav-left">
-            <div className="nav-img ">
+            <div className="nav-img">
               <NavLink to={"/"} onClick={scrollToTop }>
                 <img src={logo} alt="logo" />
               </NavLink>

@@ -48,17 +48,17 @@ const HomeHero = () => {
         <div className="home-hero-left">
           <h1>
             <strong>
-            Transforming Lives <br/>
-            through Collaboration
+            Empowering Futures<br/>
+            by Connecting
             </strong>
-            {/* Transforming Lives through Collaboration */}
+
           </h1>
           <p>
           <span className="type-write-span">
             <strong>
             <Typewriter
               options={{
-                strings: ['Bridging Students, Universities, and Employers!'],
+                strings: ['Students, Colleges, Recruiters!'],
                 autoStart: true,
                 loop: true,
                 

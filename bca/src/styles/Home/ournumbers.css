@@ -1,10 +1,9 @@
 @import url(./App.css);
+
 .ournumbers {
   position: relative;
   /* margin-bottom: 10px; */
-  /* background: linear-gradient(to top right, #4BB3FF, #4CFCFF, #00E395); */
-  background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
-
+  background: linear-gradient(to top right, #4BB3FF, #4CFCFF, #00E395);
   padding: 1rem;
 }
 
